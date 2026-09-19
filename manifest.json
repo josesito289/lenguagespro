@@ -1,0 +1,17 @@
+{
+  "name": "Ruta de Inglés",
+  "short_name": "Ruta Inglés",
+  "description": "Seguimiento diario de tu plan de inglés de 4 meses.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1EFE6",
+  "theme_color": "#2F5D50",
+  "lang": "es",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
